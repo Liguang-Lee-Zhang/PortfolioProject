@@ -1,3 +1,3 @@
 # PortfolioProject
 
-Data exploration using SQL. 
+Data Analysis Portfolio Projects(Updating)
